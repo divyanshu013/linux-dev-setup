@@ -93,6 +93,7 @@ sudo vim /etc/hostname
 - [qrcp](https://github.com/claudiodangelis/qrcp#deb-packages-ubuntu-debian-etc) - file sharing
 - [croc](https://github.com/schollz/croc) - file transfer
 - [ngrok](https://ngrok.com/download) - localhost sharing
+- [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable)
 
 ## 🖥️ Apps
 
@@ -135,6 +136,7 @@ Most apps can be found on appcenter / flathub
 - [Flipper](https://fbflipper.com/docs/getting-started/index/) - React Native stuff
 - [ngrok](https://ngrok.com/download) - localhost tunel and forwarding
 - [RunJS](https://runjs.app/) - JS playground
+- Android Studio - React Native stuff
 
 ### VSCode extensions
 
