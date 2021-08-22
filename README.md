@@ -94,6 +94,7 @@ sudo vim /etc/hostname
 - [croc](https://github.com/schollz/croc) - file transfer
 - [ngrok](https://ngrok.com/download) - localhost sharing
 - [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation)
 
 ## 🖥️ Apps
 
@@ -103,7 +104,7 @@ Most apps can be found on appcenter / flathub
   - [Clipboard](https://github.com/friday/ulauncher-clipboard) - clipboard manager
   - [Emoji](https://ext.ulauncher.io/-/github-ulauncher-ulauncher-emoji)
 - [Eddy](https://appcenter.elementary.io/com.github.donadigo.eddy/) - for `.deb` files
-- Discord
+- [Discord](https://discord.com/download)
 - Telegram
 - Zoom
 - Spotify
@@ -114,6 +115,8 @@ Most apps can be found on appcenter / flathub
 - [Iriun](https://iriun.com/) - use your phone as camera
 - [WOMic](https://wolicheng.com/womic/) - use your phone as microphone
 - [DroidCam](http://www.dev47apps.com/) - features both camera and microphone functionality
+- [Gnome system monitor](https://snapcraft.io/install/gnome-system-monitor/elementary)
+- Gnome weather
 
 
 ## 🧑‍💻 Dev
@@ -142,7 +145,7 @@ Most apps can be found on appcenter / flathub
 
 Some extensions I use (synced):
 
-- Bracket pair colorizer
+- Bracket pair colorizer 2
 - Cloak - hides secrets, useful for screencasts
 - Diff
 - DotENV
@@ -164,6 +167,8 @@ Some extensions I use (synced):
 - vscode-styled-components
 - EditorConfig for VS Code
 - NPM Dependency
+- Discord Presence
+- Code Spell Checker
 
 ## 👀 Related
 
