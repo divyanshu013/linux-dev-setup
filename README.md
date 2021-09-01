@@ -117,6 +117,7 @@ Most apps can be found on appcenter / flathub
 - [DroidCam](http://www.dev47apps.com/) - features both camera and microphone functionality
 - [Gnome system monitor](https://snapcraft.io/install/gnome-system-monitor/elementary)
 - Gnome weather
+- Fondo - wallpaper utility
 
 
 ## 🧑‍💻 Dev
