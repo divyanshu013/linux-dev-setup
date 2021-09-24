@@ -118,6 +118,7 @@ Most apps can be found on appcenter / flathub
 - [Gnome system monitor](https://snapcraft.io/install/gnome-system-monitor/elementary)
 - Gnome weather
 - Fondo - wallpaper utility
+- Turtle - makes any executable work as a regular app (and add to dock)
 
 
 ## 🧑‍💻 Dev
