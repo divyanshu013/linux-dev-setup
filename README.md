@@ -40,6 +40,7 @@ Some extensions I use (synced to account):
 - [uBlock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - for keeping ads and unwantend content/tracking away
 - [Wayback machine](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)
 - [Wikiwand](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/) - snaps cleaner UI on top of wikipedia
+- [Resource override](https://github.com/kylepaulsen/ResourceOverride)
 
 ## 🛠️ CLI
 
