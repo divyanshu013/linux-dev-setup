@@ -117,6 +117,7 @@ Most apps can be found on appcenter / flathub
 - [WOMic](https://wolicheng.com/womic/) - use your phone as microphone
 - [DroidCam](http://www.dev47apps.com/) - features both camera and microphone functionality
 - [Gnome system monitor](https://snapcraft.io/install/gnome-system-monitor/elementary)
+- [Activity monitor](https://github.com/stsdc/monitor)
 - Gnome weather
 - Fondo - wallpaper utility
 - Turtle - makes any executable work as a regular app (and add to dock)
