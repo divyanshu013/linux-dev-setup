@@ -121,6 +121,7 @@ Most apps can be found on appcenter / flathub
 - Gnome weather
 - Fondo - wallpaper utility
 - Turtle - makes any executable work as a regular app (and add to dock)
+- [Pantheon tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks/)
 
 
 ## 🧑‍💻 Dev
