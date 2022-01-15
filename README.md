@@ -111,6 +111,7 @@ Most apps can be found on appcenter / flathub
 - Spotify
 - Brave - for things that *only* works on Chrome
 - Typora - markdown note taking app
+- [MarkText](https://github.com/marktext/marktext) - open source note taking app
 - VLC
 - [Authy](https://snapcraft.io/authy) - 2FA
 - [Iriun](https://iriun.com/) - use your phone as camera
