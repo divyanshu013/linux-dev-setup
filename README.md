@@ -95,7 +95,7 @@ sudo vim /etc/hostname
 - [croc](https://github.com/schollz/croc) - file transfer
 - [ngrok](https://ngrok.com/download) - localhost sharing
 - [yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable)
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl#installation)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - improved `yotube-dl`
 
 ## 🖥️ Apps
 
